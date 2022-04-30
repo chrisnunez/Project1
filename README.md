@@ -1,5 +1,9 @@
 # BootcampProject01
 
+Live Website: https://chrisnunez.github.io/Project1/
+
+![project1](project1.png)
+
 ## About
 
 The application is designed to provide users with information about the weather, either in their current location or their travel destination.
